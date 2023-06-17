@@ -6,6 +6,7 @@ An elections console used with the Humber News students.
 
 ## Repo Resources
 
+- [Humber College](https://humber.ca/)
 - [Humber News](https://humbernews.ca/)
 - [Humber Journalism](https://mediaarts.humber.ca/programs/journalism-diploma.html)
 - [Humber Web Development](https://mediaarts.humber.ca/programs/web-development.html)
